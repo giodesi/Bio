@@ -15,4 +15,4 @@ Here you can find three folders containing documents that certify my work/academ
   - **'Introduction to Algorithms and Programming'**
     - Notes, written by me, related to the "Introduction to Algorithms and Programming" course (Second Cycle Degree/Two-Year Master in Artificial Intelligence) — offered by the University of Bologna and held by Professor Simone Martini — which concerns rudiments of programming in Python.
    
-Finally, the document named **'CV'** represents my Curriculum Vitae / Resume.
+Finally, the .pdf document named **'CV'** represents my Curriculum Vitae / Resume.
